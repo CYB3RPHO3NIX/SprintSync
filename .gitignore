@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs/SprintSync
+/Debug
+/SprintSync/Debug/SprintSync.tlog
+/SprintSync/Debug
+/SprintSync/x64/Debug
+/x64/Debug
