@@ -2,15 +2,23 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <QtLastBackgroundBuild>2024-05-18T07:15:13.4800612Z</QtLastBackgroundBuild>
+    <QtLastBackgroundBuild>2024-05-18T07:28:18.0627442Z</QtLastBackgroundBuild>
+    <QtTouchProperty>
+    </QtTouchProperty>
   </PropertyGroup>
   <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <QtLastBackgroundBuild>2024-05-18T07:15:13.6273524Z</QtLastBackgroundBuild>
+    <QtLastBackgroundBuild>2024-05-18T07:28:18.1093633Z</QtLastBackgroundBuild>
+    <QtTouchProperty>
+    </QtTouchProperty>
   </PropertyGroup>
   <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <QtLastBackgroundBuild>2024-05-18T07:15:13.7080378Z</QtLastBackgroundBuild>
+    <QtLastBackgroundBuild>2024-05-18T07:28:18.1624960Z</QtLastBackgroundBuild>
+    <QtTouchProperty>
+    </QtTouchProperty>
   </PropertyGroup>
   <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <QtLastBackgroundBuild>2024-05-18T07:15:13.7820370Z</QtLastBackgroundBuild>
+    <QtLastBackgroundBuild>2024-05-18T07:28:18.2249912Z</QtLastBackgroundBuild>
+    <QtTouchProperty>
+    </QtTouchProperty>
   </PropertyGroup>
 </Project>
