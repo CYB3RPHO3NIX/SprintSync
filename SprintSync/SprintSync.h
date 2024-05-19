@@ -9,6 +9,7 @@ class SprintSync : public QMainWindow
 
 public:
     SprintSync(QWidget *parent = nullptr);
+    void Setup();
     ~SprintSync();
 
 private:
